@@ -1,0 +1,10 @@
+enum Keys {
+  USER_ID,
+  PHONE_NUMBER,
+  FIRST_NAME,
+  LAST_NAME,
+  PROFILE,
+  IS_USER_LOGIN
+}
+
+enum Options { NEW_CHAT, SETTING }

@@ -1,0 +1,36 @@
+name: flutter_app
+description: A chat flutter application.
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.2.2 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons:
+  flutter_lottie:
+  firebase_auth:
+  shared_preferences:
+  firebase_database:
+  intl:
+  image_picker:
+  firebase_storage:
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+
+flutter:
+
+  uses-material-design: true
+
+  assets:
+     - assets/images/
+     - assets/flags/
+#     - assets/countryCodePicker/i18n/en.json
+#     - countryCodePicker/i18n/it.json
+#     - countryCodePicker/i18n/fr.json

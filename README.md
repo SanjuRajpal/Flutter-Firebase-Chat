@@ -1,10 +1,10 @@
 # Flutter-Firebase-Chat
 
 - Configuration
-  Step 1: Create app on firebase.
-  Step 2: Download google-services.json for android & GoogleService-Info.plist for iOS.
-  Step 3: Store files in respective path.
-  Step 4: Run project.
+  Step 1: Create app on firebase.<br/>
+  Step 2: Download google-services.json for android & GoogleService-Info.plist for iOS.<br/>
+  Step 3: Store files in respective path.<br/>
+  Step 4: Run project.<br/>
 
 - Screenshots
 <div class="container">

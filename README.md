@@ -1,3 +1,3 @@
 # Flutter-Firebase-Chat
 
-![Screenshot](1.png)
+![Splash Screenshot](https://github.com/SanjuRajpal/Flutter-Firebase-Chat/blob/main/Images/1.png)

@@ -1,10 +1,19 @@
 # Flutter-Firebase-Chat
 
 - Screenshots
-![1](https://github.com/SanjuRajpal/Flutter-Firebase-Chat/blob/main/Images/1.png)
-![2](https://github.com/SanjuRajpal/Flutter-Firebase-Chat/blob/main/Images/2.png)
-![3](https://github.com/SanjuRajpal/Flutter-Firebase-Chat/blob/main/Images/3.png)
-![4](https://github.com/SanjuRajpal/Flutter-Firebase-Chat/blob/main/Images/4.png)
-![5](https://github.com/SanjuRajpal/Flutter-Firebase-Chat/blob/main/Images/5.png)
-![6](https://github.com/SanjuRajpal/Flutter-Firebase-Chat/blob/main/Images/6.png)
-![7](https://github.com/SanjuRajpal/Flutter-Firebase-Chat/blob/main/Images/7.png)
+<div class="container">
+    <img width="400" height="400" src="https://github.com/SanjuRajpal/Flutter-Firebase-Chat/blob/main/Images/1.png" />
+    <img width="400" height="400" src="https://github.com/SanjuRajpal/Flutter-Firebase-Chat/blob/main/Images/2.png" />
+    <img width="400" height="400" src="https://github.com/SanjuRajpal/Flutter-Firebase-Chat/blob/main/Images/3.png" />
+    <img width="400" height="400" src="https://github.com/SanjuRajpal/Flutter-Firebase-Chat/blob/main/Images/4.png" />
+    <img width="400" height="400" src="https://github.com/SanjuRajpal/Flutter-Firebase-Chat/blob/main/Images/5.png" />
+    <img width="400" height="400" src="https://github.com/SanjuRajpal/Flutter-Firebase-Chat/blob/main/Images/6.png" />
+    <div>
+    	<img width="520" height="400" src="http://lorempixel.com/520/400?18" />
+    </div>
+    <div data-ratio="16-9">
+    	<img src="http://lorempixel.com/800/450?19" />
+    </div>
+</div>
+
+
